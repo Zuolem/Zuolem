@@ -1,75 +1,46 @@
-<p align="center">
-  <img src="assets/hero.svg" width="100%" alt="ZUOLEM// — Engineering × Data × R&amp;D. Build. Measure. Analyse. Iterate. Wireframe terrain, signals, drones and instrumentation." />
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg" />
+  <img src="assets/hero.svg" width="100%" alt="ZUOLEM// — ENGINEERING × DATA × R&amp;D. Neon wireframe mountain range, drone, electrolyser and wind turbine. Build. Measure. Analyse. Iterate." />
+</picture>
 
-### `01 / WHOAMI`
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/whoami-mobile.svg" />
+  <img src="assets/whoami.svg" width="100%" alt="ZUOLEM lab notes: scientific computing, engineering R&amp;D, data analytics, computer vision, embedded systems and IoT, signal processing, and automation. Build. Measure. Analyse. Iterate." />
+</picture>
 
-```python
-class ZUOLEM:
-    interests = (
-        "Scientific computing",
-        "Engineering R&D",
-        "Data analytics",
-        "Computer vision",
-        "Embedded systems and IoT",
-        "Signal processing",
-        "Automation",
-    )
-    philosophy = "Build. Measure. Analyse. Iterate."
-```
+### ⚒ Toolbox & research focus
 
-### `02 / TOOLBOX`
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/toolbox-mobile.svg" />
+  <img src="assets/toolbox.svg" width="100%" alt="Toolbox: Python, JavaScript, SQL, Raspberry Pi, Arduino, Linux, Git, scientific computing. Domains: scientific instrumentation, engineering research, data analytics and visualisation, embedded hardware and automation, computer vision and image processing." />
+</picture>
 
-<p>
-  <img src="assets/tool-0.svg" width="190" alt="Python" />
-  <img src="assets/tool-1.svg" width="190" alt="SQL" />
-  <img src="assets/tool-2.svg" width="190" alt="JavaScript" />
-  <img src="assets/tool-3.svg" width="190" alt="Raspberry Pi" />
-  <img src="assets/tool-4.svg" width="190" alt="Arduino" />
-  <img src="assets/tool-5.svg" width="190" alt="Linux" />
-  <img src="assets/tool-6.svg" width="190" alt="Git" />
-  <img src="assets/tool-7.svg" width="190" alt="Scientific computing" />
-</p>
+### ◇ Projects
 
-### `03 / SELECTED EXPERIMENTS`
-
-Private projects · a view into the work, with source code kept private.
-
-<p align="center">
-  <img src="assets/zuostation.svg" width="49%" alt="ZuoStation (private): ESP32-based weather station for environmental monitoring." />
-  <img src="assets/m-spect.svg" width="49%" alt="m-spect (private): micro-spectrometer programs for spectral acquisition and analysis." />
-  <img src="assets/electrolyser-hmi.svg" width="49%" alt="Electrolyser-HMI (private): control and monitoring interface for an electrolyser system." />
-  <img src="assets/b9-solar.svg" width="49%" alt="B9-Solar (private): solar-related software tools." />
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/projects-mobile.svg" />
+  <img src="assets/projects.svg" width="100%" alt="Private projects: ZuoStation — ESP32 weather station for environmental monitoring; m-spect — micro-spectrometer acquisition and analysis programs; Electrolyser-HMI — electrolyser control and monitoring interface; B9-Solar — solar-related software tools. Miniature charts are decorative illustrations." />
+</picture>
 
 <details>
-<summary>Project notes / text view</summary>
+<summary>Project notes · all source repositories are private</summary>
 
 - **ZuoStation** — ESP32-based weather station for environmental monitoring.
 - **m-spect** — Micro-spectrometer programs for spectral acquisition and analysis.
 - **Electrolyser-HMI** — Control and monitoring interface for an electrolyser system.
 - **B9-Solar** — Solar-related software tools.
 
-All four repositories are private.
+The illustrations do not represent measured project results. Source code is private.
 
 </details>
 
-### `04 / TECHNICAL DOMAINS`
+### ▥ Activity
 
-| Observe & understand | Build & control |
-| :--- | :--- |
-| Scientific instrumentation | Engineering research |
-| Data analytics and visualisation | Embedded hardware and automation |
-| Computer vision and image processing | Signal processing |
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/activity-mobile.svg" />
+  <img src="assets/activity.svg" width="100%" alt="ZUOLEM public GitHub contribution calendar and an isometric view of the same daily intensity data. Brighter lime cells and taller columns indicate higher intensity, not exact contribution counts. Snapshot date appears in the graphic." />
+</picture>
 
-### `05 / CONTRIBUTION SIGNAL`
+[Live contribution calendar](https://github.com/Zuolem?tab=overview) · Public profile data only.
 
-<p align="center">
-  <img src="assets/activity.svg" width="100%" alt="ZUOLEM's public GitHub contribution calendar. Brighter lime cells indicate higher contribution intensity. Snapshot date is shown in the graphic." />
-</p>
-
-[View the live contribution calendar](https://github.com/Zuolem?tab=overview) · Public profile data only; no private repository details.
-
----
-
-`ZUOLEM//` · **Build. Measure. Analyse. Iterate.**
+<p align="center"><sub>ZUOLEM// · Build. Measure. Analyse. Iterate.</sub></p>
